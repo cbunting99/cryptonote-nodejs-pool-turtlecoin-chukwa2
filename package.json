@@ -9,7 +9,7 @@
 		"url": "https://github.com/dvandal/cryptonote-nodejs-pool.git"
 	},
 	"dependencies": {
-		"async": "^1.5.2",
+		"async": "*",
 		"base58-native": "^0.1.4",
 		"bignum": "*",
 		"bufferutil": "*",
@@ -17,7 +17,7 @@
 		"cryptoforknote-util": "https://github.com/MoneroOcean/node-cryptoforknote-util.git",
 		"cryptonight-hashing": "https://github.com/worktipsdev/node-cryptonight-hashing.git",
 		"dateformat": "^3.0.3",
-		"discord.js": "*",
+		"discord.js": "12.0.0",
 		"domexception": "*",
 		"mailgun.js": "^2.0.1",
 		"node-telegram-bot-api": "*",
