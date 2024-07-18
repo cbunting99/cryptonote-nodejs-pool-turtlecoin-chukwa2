@@ -50,7 +50,7 @@ sudo apt-get install libsodium-dev libgmp3-dev node-gyp libssl-dev -y
 sudo apt-get update
 curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.0/install.sh | bash
 source ~/.profile
-nvm install 12.22.6
+nvm install 14.0.0
 sudo apt-get install redis-server
 
 git clone https://github.com/cbunting99/cryptonote-nodejs-pool-turtlecoin-chukwa2.git pool
